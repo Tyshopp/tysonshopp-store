@@ -1,5 +1,5 @@
 // Forzando redeploy para que Vercel actualice los imports
-import '@/globals.css';
+import '../globals.css';
 
 
 export default function App({ Component, pageProps }) {
